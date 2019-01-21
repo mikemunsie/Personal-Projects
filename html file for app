@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>401K Savings Tool</title>
+    </head>
+
+    <body>
+        <h1>401K Savings Tool</h1>
+    </body>
+
+    <script src="401kCalc.js"></script>
+</html>
