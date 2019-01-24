@@ -216,7 +216,6 @@ var needToSaveMoney = calcMoneyNeeded(retireMoney, balance);
 var shortFall = calcShortFall(age, retirementAge, needToSaveMoney, payPeriods, savingsPerPeriod, balance, rateOfReturn);
 
 
-
 //Logging the outputs to the console
 console.log('Your company is ' + provider + '.');
 console.log('Your monthly income is: $' + monthlyIncome);
